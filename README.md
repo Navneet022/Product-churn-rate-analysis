@@ -1,4 +1,4 @@
-                                                         # Product Analytics Intelligence Project: Churn and Customer Retention Case Study
+                            # Product Analytics Intelligence Project: Churn and Customer Retention Case Study
 
 # 📦 Product Analytics Intelligence Project
 
@@ -28,7 +28,7 @@ A simulated end-to-end product analytics system using SQL, Excel, and Python to 
 - Labeled users: **New**, **Active**, **Dormant**, **Churned**
 - Found the majority churned after 30 days, revealing critical intervention window
 
-![Distribution of Valid  User Segment.png](attachment:8217d765-8f22-4d6b-a458-c2c761d75df0:Distribution_of_Valid__User_Segment.png)
+attachment:8217d765-8f22-4d6b-a458-c2c761d75df0:Distribution_of_Valid__User_Segment.png
 
 ### 🧠 Phase 3 – Python RFM Segmentation
 
