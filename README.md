@@ -22,7 +22,8 @@ A simulated end-to-end product analytics system using SQL, Excel, and Python to 
 - Joined user–order–product tables for behavioral insights
 - Key finding: Signups peak early month, most users place their first order within 14 days
 
-  ![Distribution of user segment]([path/to/image](https://www.notion.so/Product-Analytics-Churn-and-Customer-Retention-Case-Study-22fc6ddfff8680a5997ece92ef7a898f?source=copy_link#230c6ddfff868032af28e0a1b55960fb))
+ ![Distribution of user segment](Charts/Distribution%20of%20Valid%20User%20Segment.png)
+
 
 
 ### 📊 Phase 2 – Excel-Based Cohort & Churn Modeling
