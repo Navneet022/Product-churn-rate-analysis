@@ -22,8 +22,6 @@ A simulated end-to-end product analytics system using SQL, Excel, and Python to 
 - Joined user–order–product tables for behavioral insights
 - Key finding: Signups peak early month, most users place their first order within 14 days
 
- ![Distribution of user segment](Charts\Distribution of Valid  User Segment.png)
-
 
 
 ### 📊 Phase 2 – Excel-Based Cohort & Churn Modeling
@@ -32,7 +30,6 @@ A simulated end-to-end product analytics system using SQL, Excel, and Python to 
 - Labeled users: **New**, **Active**, **Dormant**, **Churned**
 - Found the majority churned after 30 days, revealing critical intervention window
 
-attachment:8217d765-8f22-4d6b-a458-c2c761d75df0:Distribution_of_Valid__User_Segment.png
 
 ### 🧠 Phase 3 – Python RFM Segmentation
 
@@ -40,7 +37,6 @@ attachment:8217d765-8f22-4d6b-a458-c2c761d75df0:Distribution_of_Valid__User_Segm
 - Built personalized re-engagement strategy for each segment
 - Bonus: Found "Other" segment (approx 32%) as an untapped upsell zone
 
-![User_count_RFM_segment.png](attachment:7188a682-1199-4fb5-a3ff-1de2a9f2ed46:User_count_RFM_segment.png)
 
 ### 🗓️ Phase 4 – Seasonal + Weekly Demand Analysis
 
@@ -49,9 +45,6 @@ attachment:8217d765-8f22-4d6b-a458-c2c761d75df0:Distribution_of_Valid__User_Segm
 - 1,000+ missed orders annually due to weekly performance dips
 - December surge (54 orders) and February volatility - 2023 was worst performing month while 2024 was strong (50 orders), suggesting external factors drive seasonal variance
 
-![Orders by week.png](attachment:319e781e-0333-443c-85be-573d55c92129:Orders_by_week.png)
-
-![Monthly order volumne over time.png](attachment:0f5fc605-548c-45e7-95ab-4fa5da8446e6:Monthly_order_volumne_over_time.png)
 
 ### 💸 Phase 5 – Pricing & Product Strategy
 
@@ -60,7 +53,6 @@ attachment:8217d765-8f22-4d6b-a458-c2c761d75df0:Distribution_of_Valid__User_Segm
 - Home products span full range from $5.39 to premium tiers
 - Recommended bundling strategy i.e. create tiered offerings within each category, bundle low-entry items with premium products across categories.
 
-![TotalRevenue by Product.png](attachment:970e7cba-93d0-418b-a780-dc43c7dbcc38:TotalRevenue_by_Product.png)
 
 ## 📈 Business Recommendations
 
